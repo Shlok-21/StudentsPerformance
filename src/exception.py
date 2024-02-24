@@ -1,5 +1,7 @@
 import sys
-import logging
+#import logger file
+sys.path.append("D:\\nettech\\StudentsPerformance")
+from src.logger import logging
 
 def error_message_detail(error,error_details:sys):
     _,_,exc_tb = error_details.exc_info()
@@ -15,4 +17,3 @@ class CustomException(Exception):
 
     def __str__(self):
         return self.error_message
-    
