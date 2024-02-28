@@ -8,7 +8,7 @@ This project entails developing a comprehensive data processing and modeling pip
     * Create GitHub repo and .gitignore
     * Create venv
     * Create `setup.py`
-    * Create `requirements.txt`
+    * Create `requirements.txt` 
 
 2. **Create Source Code Structure**
     * Create `src` directory and build the package (`requirements.txt`)
