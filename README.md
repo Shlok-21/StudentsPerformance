@@ -3,7 +3,6 @@
 This project entails developing a comprehensive data processing and modeling pipeline utilizing Python, Flask, Docker, and AWS for deployment. Tasks include conducting thorough EDA, feature engineering, model training, website creation, Dockerization, CI/CD implementation, and AWS deployment setup. The objective is to deliver a robust, scalable solution for data analysis and predictive analytics.
 
 ## Project Structure
----
 1. **Setup GitHub and Local Folder**
     * Create GitHub repo and .gitignore
     * Create venv
@@ -65,7 +64,6 @@ This project entails developing a comprehensive data processing and modeling pip
 
 
 ## Final Result
----
 ![image](https://github.com/Shlok-21/StudentsPerformance/assets/91182775/1070550f-50cd-4ab1-9834-ac2954024545)
 
 ![image](https://github.com/Shlok-21/StudentsPerformance/assets/91182775/99254c10-4692-44c7-8e6d-76bcd0663713)
