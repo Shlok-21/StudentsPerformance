@@ -28,7 +28,7 @@ This project entails developing a comprehensive data processing and modeling pip
 
 4. **Create Simple Webpage for User Input**
 
-5. **Write Modular Code with Respect to the Jupyter Notebook and Test on Local Server (Flask)**
+5. **Write Modular Code with respect to the Jupyter Notebook and Test on Local Server (Flask)**
 
 6. **Docker Configuration and Deployment**
     * Docker setup and configuration
