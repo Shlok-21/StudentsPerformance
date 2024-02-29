@@ -8,6 +8,4 @@ xgboost
 dill
 Flask
 
-gunicorn ==19.9.0
-itsdangerous ==1.1.0
 #-e .
