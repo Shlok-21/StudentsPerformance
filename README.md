@@ -1,3 +1,38 @@
+# Predicting Student's Math Scores
+
+## Overview
+This repository contains code for building a machine learning model to predict students' math scores based on various features such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course. The aim is to develop an accurate model that can assist in understanding factors influencing students' academic performance.
+
+## Dataset
+The dataset used for this project consists of the following columns:
+- Gender
+- Race/Ethnicity
+- Parental Level of Education
+- Lunch Type
+- Test Preparation Course
+- Math Score (target variable)
+- Reading Score
+- Writing Score
+
+## Machine Learning Models Utilized
+Several machine learning algorithms were explored to develop the predictive model. The models used include:
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Support Vector Regression (SVR)
+- Decision Tree Regression
+- Random Forest Regression
+- K-Nearest Neighbors Regression
+- Gradient Boosting Regression
+- AdaBoost Regression
+- CatBoost Regression
+- XGBoost Regression
+
+## Model Evaluation and Selection
+To identify the best performing models, techniques such as Randomized Search Cross-Validation (RandomizedSearchCV) were employed to tune hyperparameters and optimize model performance. Model evaluation metrics such as mean squared error (MSE), root mean squared error (RMSE), and R-squared values were utilized to assess predictive accuracy and generalization capabilities.
+
+## Final Model Selection
+After thorough evaluation, the best-performing models were selected based on their predictive accuracy and performance metrics. These models were potentially combined or further fine-tuned to create the best final predictive model for estimating students' math scores based on the given features.
 
 ## Summary 
 This project entails developing a comprehensive data processing and modeling pipeline utilizing Python, Flask, Docker, and AWS for deployment. Tasks include conducting thorough EDA, feature engineering, model training, website creation, Dockerization, CI/CD implementation, and AWS deployment setup. The objective is to deliver a robust, scalable solution for data analysis and predictive analytics.
@@ -28,7 +63,7 @@ This project entails developing a comprehensive data processing and modeling pip
 
 4. **Create Simple Webpage for User Input**
 
-5. **Write Modular Code with Respect to the Jupyter Notebook and Test on Local Server (Flask)**
+5. **Write Modular Code with respect to the Jupyter Notebook and Test on Local Server (Flask)**
 
 6. **Docker Configuration and Deployment**
     * Docker setup and configuration
