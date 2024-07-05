@@ -4,7 +4,9 @@ Check it out : [Students Math Score](https://students-math-score.streamlit.app/)
 
 
 ## Overview
-This repository contains code for building a machine learning model to predict students' math scores based on various features such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course. The aim is to develop an accurate model that can assist in understanding factors influencing students' academic performance.
+This repository contains code for building a machine learning model to predict students' math scores based on various features such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course. <br>
+
+The aim is to develop an accurate model, focusing on writing production-level code and creating data pipelines from data acquisition to preprocessing and predicting.
 
 ## Dataset
 The dataset used for this project consists of the following columns:
